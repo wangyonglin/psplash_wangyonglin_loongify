@@ -1,4 +1,4 @@
-# psplash_flying_logo
+# psplash_wangyonglin_loongify
     开机动画
 
 ```
